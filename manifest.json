@@ -1,0 +1,11 @@
+{
+	"id": "smart-folders",
+	"name": "Smart Folders",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create smart folders based on tag queries, similar to Apple Notes Smart Folders",
+	"author": "YourGitHubUsername",
+	"authorUrl": "https://github.com/YourGitHubUsername",
+	"fundingUrl": "https://buymeacoffee.com/YourUsername",
+	"isDesktopOnly": false
+}
